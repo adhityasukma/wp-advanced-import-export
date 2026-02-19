@@ -16,8 +16,8 @@ Export and Import Posts, Pages, Custom Post Type, Comments, Custom Fields, Taxon
 |-------|------------|
 | <a href="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_14h59_55.png" target="_blank"><img src="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_14h59_55.png" width="100%"></a> | <a href="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_15h00_05.png" target="_blank"><img src="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_15h00_05.png" width="100%"></a> |
 
-| Report / Result Import|
-|-----------|----------------|
+| Report / Result Import |
+|-----------|
 | <a href="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_15h00_16.png" target="_blank"><img src="https://adhityasukma.com/wp-content/uploads/2026/02/2026-02-19_15h00_16.png" width="100%"></a> |
 
 ---
